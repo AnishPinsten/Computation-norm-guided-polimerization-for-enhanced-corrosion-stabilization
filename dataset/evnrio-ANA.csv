@@ -1,0 +1,41 @@
+Location,Exposure_Time(Days),Temperature(Celsius),Relative_Humidity(%),pH,Corrosion_Rate(mm/year),Environmental_Factors,Recommended_Polymer_Type
+Coastal Area,180,30,75,7.5,0.2,Saltwater,Bio-Polymer
+Industrial Zone,365,40,60,5.5,0.4,Chemical Pollution,Chemical Polymer
+Urban Environment,240,25,70,6,0.3,Air Pollution,Chemical Polymer
+Rural Area,120,20,50,6.5,0.1,Rainfall,Chemical Polymer
+Marine Offshore,730,45,80,7,0.5,Biological Fouling,Bio-Polymer
+Desert Region,90,35,30,7.2,0.05,Dry Climate,Bio-Polymer
+Subtropical Climate,300,28,65,6.2,0.3,UV Exposure,Bio-Polymer
+Arctic Zone,540,0,95,5,0.15,Extreme Cold,Chemical Polymer
+Rainforest,150,32,90,7.8,0.4,High Humidity,Bio-Polymer
+High Altitude,400,15,40,7.4,0.2,Low Oxygen Levels,Chemical Polymer
+Mountainous Region,210,18,40,6.2,0.12,High Altitude,Bio-Polymer
+Chemical Plant,365,45,70,4.5,0.5,Chemical Exposure,Chemical Polymer
+City Environment,240,22,65,6.5,0.28,Urban Pollution,Chemical Polymer
+Polar Region,450,10,60,5.5,0.03,Extreme Cold,Bio-Polymer
+Tropical Coast,300,32,85,6.8,0.3,Saltwater,Bio-Polymer
+Arid Desert,180,38,15,7,0.04,Dry Climate,Chemical Polymer
+Forest Ecosystem,210,28,75,7.4,0.25,Biological Factors,Bio-Polymer
+Marine Laboratory,120,27,90,7.6,0.15,Laboratory Conditions,Chemical Polymer
+Island Paradise,270,31,80,7.8,0.22,Coastal Conditions,Bio-Polymer
+Suburban Area,270,22,45,7.2,0.18,Industrial Pollution,Chemical Polymer
+Island Resort,180,29,78,7.6,0.22,Saltwater,Bio-Polymer
+Dry Arid Zone,150,40,15,6.8,0.03,Dry Climate,Chemical Polymer
+Mountain Village,210,20,55,7,0.12,High Altitude,Bio-Polymer
+Chemical Factory,365,42,70,4.5,0.6,Chemical Exposure,Chemical Polymer
+Tropical Rainforest,270,31,90,7.5,0.3,High Humidity,Bio-Polymer
+Countryside,240,24,60,6.5,0.15,Low Pollution,Chemical Polymer
+Frozen Tundra,540,5,90,6,0.02,Extreme Cold,Bio-Polymer
+Desert Oasis,180,37,30,7.4,0.06,Dry Climate,Chemical Polymer
+Coastal Resort,300,32,75,7.8,0.28,Coastal Conditions,Bio-Polymer
+Jungle Expedition,400,28,85,6.2,0.4,Biological Factors,Bio-Polymer
+Coastal Town,180,28,70,7.3,0.25,Saltwater,Bio-Polymer
+Tundra Research Station,300,5,80,6,0.05,Extreme Cold,Chemical Polymer
+Tropical Island,240,32,85,6.8,0.3,High Humidity,Bio-Polymer
+Mining Site,120,40,35,5.5,0.35,Chemical Exposure,Chemical Polymer
+Fjord Region,210,15,60,6.7,0.12,Coastal Conditions,Bio-Polymer
+High Mountain Pass,480,10,30,7,0.08,High Altitude,Bio-Polymer
+Industrial Port,270,33,75,6.5,0.4,Chemical Pollution,Chemical Polymer
+Mangrove Forest,365,28,88,7.2,0.2,Biological Factors,Bio-Polymer
+Underground Bunker,90,18,20,6.5,0.08,Low Oxygen Levels,Chemical Polymer
+Tropical Aquarium,150,26,90,7.8,0.15,Controlled Environment,Bio-Polymer

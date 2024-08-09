@@ -1,0 +1,30 @@
+Material_Type,Environment,Exposure_Time(Days),Temperature(Celsius),Relative_Humidity(%),pH , Corrosion_Rate(mm/year), Recommended_Coating_Material,Coating_Level,Environmental_Factors,Polymer_Volume(L),Coating_Thickness(mm), Surface
+Polymer,_Infrastructure,180,30,75,7.5,0.2,Epoxy Coating ,High,Air Pollution,3,0.5,50
+Bio-Polymer,_Marine_Industry_,365,40,60,5.5,0.4, Chitosan Coating,Medium,Saltwater,2.5,0.4,60
+Polymer,_Oil_and_Gas_Industry,240,25,70,6,0.3,Polyurethane Coating,High,Chemical Exposure Pollution,2.8,0.3,70
+Polymer,_Chemical Exposure_Industry_,120,20,50,6.5,0.1,Acrylic Coating ,Low,Air Pollution,2,0.4,40
+Bio-Polymer,_Automotive_Industry_,730,45,80,7,0.5,Alginate Coating,Medium,SubAir Pollution,3.2,0.6,80
+Bio-Polymer,_Electronics_Industry,90,35,30,7.2,0.05,Cellulose Coating ,Low,Air Pollution,1.5,0.2,30
+Polymer,_Aerospace_,300,28,65,6.2,0.3, Alkyd Coating,High,Chemical Exposure Pollution,2.2,0.35,55
+Bio-Polymer,_Construction,540,0,95,5,0.15, Poly-Lactic Acid Coating ,High,Rainfall,3.5,0.4,90
+Polymer,_Manufacturing_,150,32,90,7.8,0.4, Silicone Coating ,Medium,Chemical Exposure Pollution,1.8,0.25,45
+Bio-Polymer,_Power_Generation,400,15,40,7.4,0.2, Starch Coating ,Low,Rainfall,2.6,0.3,65
+Polymer,_Infrastructure,365,35,70,6.3,0.3,Epoxy Coating ,High,Air Pollution,2.8,0.45,70
+Bio-Polymer,_Marine_Industry_,300,38,85,6.8,0.25,Chitosan Coating,Medium,Saltwater,2.5,0.35,55
+Polymer,_Oil_and_Gas_Industry,240,27,75,6.5,0.28,Polyurethane Coating,High,Chemical Exposure Pollution,2.7,0.4,65
+Polymer,_Chemical Exposure_Industry_,450,10,60,5.5,0.03,Acrylic Coating ,Low,Air Pollution,3.3,0.6,80
+Bio-Polymer,_Automotive_Industry_,180,32,85,6.8,0.3,Alginate Coating,Medium,SubAir Pollution,2.2,0.4,45
+Bio-Polymer,_Electronics_Industry,90,37,30,7.2,0.05,Cellulose Coating ,Low,Air Pollution,1.8,0.25,35
+Polymer,_Aerospace_,300,28,65,6.2,0.3, Alkyd Coating,High,Chemical Exposure Pollution,2.5,0.4,60
+Bio-Polymer,_Construction,540,5,95,5,0.15, Poly-Lactic Acid Coating ,High,Rainfall,3,0.35,70
+Polymer,_Manufacturing_,150,32,90,7.8,0.4, Silicone Coating ,Medium,Chemical Exposure Pollution,2.2,0.5,50
+Bio-Polymer,_Power_Generation,400,18,40,7.4,0.2, Starch Coating ,Low,Rainfall,2.6,0.45,65
+Polymer,_Infrastructure,270,32,78,7.3,0.22,Epoxy Coating ,High,Air Pollution,2.9,0.47,53
+Bio-Polymer,_Marine_Industry_,200,35,88,6.9,0.38,Chitosan Coating,Medium,Saltwater,3.1,0.33,63
+Polymer,_Oil_and_Gas_Industry,120,28,45,6.1,0.12,Polyurethane Coating,Low,Chemical Exposure Pollution,1.6,0.28,42
+Polymer,_Chemical Exposure_Industry_,210,18,60,6.7,0.14,Acrylic Coating ,Medium,Air Pollution,2.3,0.37,58
+Bio-Polymer,_Automotive_Industry_,480,10,25,7.1,0.03,Alginate Coating,High,SubAir Pollution,3.6,0.5,75
+Bio-Polymer,_Electronics_Industry,180,29,90,7.5,0.2,Cellulose Coating ,Low,Air Pollution,1.7,0.22,32
+Polymer,_Aerospace_,90,22,20,6.4,0.09, Alkyd Coating,Low,Rainfall,2,0.3,55
+Bio-Polymer,_Construction,360,15,55,7.3,0.06, Poly-Lactic Acid Coating ,Medium,Rainfall,2.7,0.4,68
+Polymer,_Manufacturing_,300,28,85,6.8,0.35, Silicone Coating ,High,Chemical Exposure Pollution,2.1,0.32,48
